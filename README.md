@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=MakeNattapong&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=c&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>
@@ -61,7 +61,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="sourcetree" **alt="sourcetree" width="40" height="40"/>
   
 </div>
+---
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=MakeNattapong
 <!---
 MakeNattapong/MakeNattapong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
